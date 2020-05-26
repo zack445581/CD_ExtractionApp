@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extraction_Maarif_Sortant", "Extraction_Maarif_Sortant\Extraction_Maarif_Sortant.csproj", "{D1A2F5CC-D83D-421D-A413-CD3348994D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1A2F5CC-D83D-421D-A413-CD3348994D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A2F5CC-D83D-421D-A413-CD3348994D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A2F5CC-D83D-421D-A413-CD3348994D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A2F5CC-D83D-421D-A413-CD3348994D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BC63AF7-8A1C-4137-9F37-AF4C06BEEBEA}
+	EndGlobalSection
+EndGlobal
